@@ -2,8 +2,7 @@
 
 This project was created using React (functional component), CSS, fontawesome.
 
-###### [Check It Out](https://natalievasquez11.github.io/random-quote-machine/) 
-Deployed on github pages
+Deployed on github pages - [Check It Out](https://natalievasquez11.github.io/random-quote-machine/) 
 
 ## What it is
 
