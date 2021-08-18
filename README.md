@@ -8,4 +8,4 @@ A project from [freecodecamp's frontend certification](https://www.freecodecamp.
 
 ## Freecodecamp's test results
 
-Here is a screenshot of the [test results](./images.test-results.png) from freecodecamp's test suite
+Here is a screenshot of the ![test results](./images.test-results.png) from freecodecamp's test suite
