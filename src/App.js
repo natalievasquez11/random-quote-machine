@@ -47,7 +47,7 @@ function App(props) {
           <button style={{ backgroundColor: currentColor, borderColor: currentColor }}
             onClick={() => {
               window.open('https://twitter.com/')}}>
-           {/*} <a id="tweet-quote" href="https://twitter.com/intent/tweet"/>*/}
+            <a id="tweet-quote" href="https://twitter.com/intent/tweet"/>
             <i className="fab fa-twitter btn"></i>
            </button>
         </span>
